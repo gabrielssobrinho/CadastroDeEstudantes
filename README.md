@@ -1,2 +1,2 @@
 # crud-estudantes
- Meu primeiro CRUD com a linguagem de programação Java, utilizando o framework Spring Boot e o banco de dados MySQL.
+CRUD com a linguagem de programação Java, utilizando o framework Spring Boot e banco de dados MySQL, envolvendo JavaServer Faces.
