@@ -1,2 +1,12 @@
-# crud-estudantes
-CRUD com a linguagem de programação Java, utilizando o framework Spring Boot e banco de dados MySQL, envolvendo JavaServer Faces.
+# CRUD de estudantes
+
+CRUD de estudantes em Java.
+
+## 🛠️ Tecnologias
+
+* Eclipse IDE.
+* Spring Boot.
+* MySQL.
+
+Acesse: https://gabrielssobrinho.github.io/wherehosting/.
+
